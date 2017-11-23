@@ -1,2 +1,2 @@
 # congenial-winner
-Learner,Enthusiast
+Learner,Enthusiast,Starter
