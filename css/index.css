@@ -1,5 +1,56 @@
-body 
+
+body
 {
+	margin-right: 200px;
+	background-image: url("images/krishna.jpg");
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-attachment: fixed;
+
+}
+#para1,h1
+{
+	border: 2px;
+	border-top-style: double;
+	border-right-style: dotted;
+	border-left: 6px solid;
+	border-bottom-style: inset;
+	border-radius: 12px;
+	border-width: thick;
+	border-color: grey;
+	margin: auto;
+	padding: 25px;
+	/*margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-right: 0.75em;
+	margin-left: 0.4em;*/
+	box-sizing: border-box;
+	text-align: center;
+	color: red;
+	font-size: 20px;
+	font-family: times;
+	background-color: lightblue;
+}
+.new
+{
+	border: 2px solid DodgerBlue;
+	border-style: dashed;
+	text-align: center;
+	color:yellow;
+	font-family: arial;
+	font-size: 1em;
 	background-color: black;
-	color: white;
+
+}
+p.new
+{
+	text-align: center;
+	color:blue;
+	font-family: Arial;
+	font-size: 1em;
+	background-color: yellow;
+}
+p.large
+{
+	font-size: 2em;
 }
